@@ -12,7 +12,11 @@ Per crear i editar els arxius XML, DTD i XSD he fet servir l'aplicació [XML Cop
 
 ## XML
 
-Un cop elaborat XML he comprovat que estigui ben escrit o format:
+Un cop elaborat XML he comprovat que estigui ben escrit o format, fent servir [https://www.truugo.com/xml_validator/](https://www.truugo.com/xml_validator/):
+
+![VALIDACIÓ XML](https://github.com/bielalzina/LMSGI_03/blob/master/imatges/xml_validation_well_formed.png?raw=true)
+
+
 
 
 
