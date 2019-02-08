@@ -30,7 +30,15 @@ Un cop elaborat XML he comprovat que estigui ben escrit o format, fent servir [h
 
 ![VALIDACIÓ XML](https://github.com/bielalzina/LMSGI_03/blob/master/imatges/xml_validation_well_formed.png?raw=true)
 
+## DTD
 
+Un cop elaborat el DTD, l'he validat amb el propi XML Copy Editor:
+
+![VALIDACIÓ DTD 1](https://github.com/bielalzina/LMSGI_03/blob/master/imatges/xml_validation_dtd_1.png?raw=true)
+
+I també en [https://www.truugo.com/xml_validator/](https://www.truugo.com/xml_validator/):
+
+![VALIDACIÓ DTD 2](https://github.com/bielalzina/LMSGI_03/blob/master/imatges/xml_validation_dtd_2.png?raw=true)
 
 
 
