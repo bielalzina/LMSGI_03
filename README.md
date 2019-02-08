@@ -42,6 +42,8 @@ I també en [https://www.truugo.com/xml_validator/](https://www.truugo.com/xml_v
 
 En aquest cas, he inclos el codi DTD en l'arxiu XML
 
+## XSD
 
+Igual que pel DTD, he validat el XSD amb el propi XML Copy Editor:
 
 
