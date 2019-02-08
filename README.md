@@ -40,5 +40,8 @@ I també en [https://www.truugo.com/xml_validator/](https://www.truugo.com/xml_v
 
 ![VALIDACIÓ DTD 2](https://github.com/bielalzina/LMSGI_03/blob/master/imatges/xml_validation_dtd_2.png?raw=true)
 
+En aquest cas, he inclos el codi DTD en l'arxiu XML
+
+
 
 
