@@ -17,14 +17,14 @@ L'estructura de l'arxiu XML seria:
 * Element arrel: \<catalegcpele\>
   * Per cada certificat, amb una id: \<cp id="x"\>
     * Codi del cp (quatre lletres que identifiquen la familia i l'area + 4 digits): \<codicp\>ELEE0109\</codicp\>
-    * Nivell del cp (pot ser de nivell 1 o 2 o 3): <nivellcp>1</nivellcp>
-    * Nom del cp: <nomcp>Operaciones auxiliares de montaje de redes eléctricas</nomcp>
-    * Durada del cp en hores: <horescp>220</horescp>
-    * Url de la fitxa informativa del cp: <urlcp>https://www.sepe.es/contenidos/../fichasCertificados/ELEE0108_ficha.pdf</urlcp>
-    * Reial Decret que regula el cp <rdcp>RD 1214/2009</rdcp>
-  * Tancam etiqueta </cp>
-  * Es torna a obrir etiqueta <cp id="x+1">, definint les anteriors etiquetes (codicp, nivellcp, nomcp, horescp, urlcp, rdcp) per a cada cp. Tancam etiqueta cp, tornant a repetir el cicle.
-* Tancam element arrel: </catalegcpele>
+    * Nivell del cp (pot ser de nivell 1 o 2 o 3): \<nivellcp\>1\</nivellcp\>
+    * Nom del cp: \<nomcp\>Operaciones auxiliares de montaje de redes eléctricas\</nomcp\>
+    * Durada del cp en hores: \<horescp\>220\</horescp\>
+    * Url de la fitxa informativa del cp: \<urlcp\>https://www.sepe.es/contenidos/../fichasCertificados/ELEE0108_ficha.pdf\</urlcp\>
+    * Reial Decret que regula el cp \<rdcp\>RD 1214/2009\</rdcp\>
+  * Tancam etiqueta \</cp\>
+  * Es torna a obrir etiqueta \<cp id="x+1"\>, definint les anteriors etiquetes (codicp, nivellcp, nomcp, horescp, urlcp, rdcp) per a cada cp. Tancam etiqueta cp, tornant a repetir el cicle.
+* Tancam element arrel: \</catalegcpele\>
 
 Un cop elaborat XML he comprovat que estigui ben escrit o format, fent servir [https://www.truugo.com/xml_validator/](https://www.truugo.com/xml_validator/):
 
