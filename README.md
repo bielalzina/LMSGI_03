@@ -14,7 +14,7 @@ Per crear i editar els arxius XML, DTD i XSD he fet servir l'aplicació [XML Cop
 
 L'estructura de l'arxiu XML seria:
 
-* Element arrel: <catalegcpele>
+* Element arrel: "<catalegcpele>"
   * Per cada certificat, amb una id: <cp id="x">
     * Codi del cp (quatre lletres que identifiquen la familia i l'area + 4 digits): <codicp>ELEE0109</codicp>
     * Nivell del cp (pot ser de nivell 1 o 2 o 3): <nivellcp>1</nivellcp>
