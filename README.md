@@ -46,4 +46,8 @@ En aquest cas, he inclos el codi DTD en l'arxiu XML
 
 Igual que pel DTD, he validat el XSD amb el propi XML Copy Editor:
 
+![VALIDACIÓ XSD 1](https://github.com/bielalzina/LMSGI_03/blob/master/imatges/xml_validation_xsd_1.png?raw=true)
 
+Per validar-ho ON-LINE, he fet servir [https://www.freeformatter.com/xml-validator-xsd.html](https://www.freeformatter.com/xml-validator-xsd.html):
+
+![VALIDACIÓ XSD 2](https://github.com/bielalzina/LMSGI_03/blob/master/imatges/xml_validation_xsd_2.png?raw=true)
