@@ -51,3 +51,8 @@ Igual que pel DTD, he validat el XSD amb el propi XML Copy Editor:
 Per validar-ho ON-LINE, he fet servir [https://www.freeformatter.com/xml-validator-xsd.html](https://www.freeformatter.com/xml-validator-xsd.html):
 
 ![VALIDACIÓ XSD 2](https://github.com/bielalzina/LMSGI_03/blob/master/imatges/xml_validation_xsd_2.png?raw=true)
+
+Com notes destacades, he inclos en el codi:
+
+* El patró \<xs:pattern value="[A-Z]{4}\d{4}"/\> pel contingut de l'etiqueta codicp
+* El valor màxim de nivellcp pot ser 3 \<xs:maxInclusive value="3"/\> i com es un positiveInteger el valor minim és 1, per tant els possibles valors poden ser 1, 2 o 3.
