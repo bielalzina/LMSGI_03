@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE catalegcpele [
+
+<!ELEMENT catalegcpele (cp+)>
+
+<!ELEMENT cp (codicp, nivellcp, nomcp, horescp, urlcp, rdcp)>
+
+<!ELEMENT codicp (#PCDATA)>
+<!ELEMENT nivellcp (#PCDATA)>
+<!ELEMENT nomcp (#PCDATA)>
+<!ELEMENT horescp (#PCDATA)>
+<!ELEMENT urlcp (#PCDATA)>
+<!ELEMENT rdcp (#PCDATA)>
+
+<!ATTLIST cp id CDATA #REQUIRED>
+
+]>
+<catalegcpele>
+	<cp id="1">
+		<codicp>ELEE0108</codicp>
+		<nivellcp>1</nivellcp>
+		<nomcp>Operaciones auxiliares de montaje de redes eléctricas</nomcp>
+		<horescp>220</horescp>
+		<urlcp>https://www.sepe.es/contenidos/personas/formacion/certificados_de_profesionalidad/pdf/fichasCertificados/ELEE0108_ficha.pdf</urlcp>
+		<rdcp>RD 1214/2009</rdcp>
+	</cp>
+	<cp id="2">
+		<codicp>ELEE0109</codicp>
+		<nivellcp>2</nivellcp>
+		<nomcp>Montaje y mantenimiento de instalaciones eléctricas de baja tensión</nomcp>
+		<horescp>920</horescp>
+		<urlcp>https://www.sepe.es/contenidos/personas/formacion/certificados_de_profesionalidad/pdf/fichasCertificados/ELEE0109_ficha.pdf</urlcp>
+		<rdcp>RD 683/2011</rdcp>
+	</cp>
+	<cp id="3">
+		<codicp>ELEE0110</codicp>
+		<nivellcp>3</nivellcp>
+		<nomcp>Desarrollo de proyectos de instalaciones eléctricas en el entorno de edificios y con fines especiales</nomcp>
+		<horescp>520</horescp>
+		<urlcp>https://www.sepe.es/contenidos/personas/formacion/certificados_de_profesionalidad/pdf/fichasCertificados/ELEE0110_ficha.pdf</urlcp>
+		<rdcp>RD 1523/2011</rdcp>
+	</cp>
+	<cp id="4">
+		<codicp>ELEE0209</codicp>
+		<nivellcp>2</nivellcp>
+		<nomcp>Montaje y mantenimiento de redes eléctricas de alta tensión de segunda y tercera categoría y centros de transformación</nomcp>
+		<horescp>490</horescp>
+		<urlcp>https://www.sepe.es/contenidos/personas/formacion/certificados_de_profesionalidad/pdf/fichasCertificados/ELEE0209_ficha.pdf</urlcp>
+		<rdcp>RD 683/2011</rdcp>
+	</cp>
+	<cp id="5">
+		<codicp>ELEE0210</codicp>
+		<nivellcp>3</nivellcp>
+		<nomcp>Desarrollo de proyectos de redes eléctricas de baja y alta tensión</nomcp>
+		<horescp>690</horescp>
+		<urlcp>https://www.sepe.es/contenidos/personas/formacion/certificados_de_profesionalidad/pdf/fichasCertificados/ELEE0210_ficha.pdf</urlcp>
+		<rdcp>RD 1523/2011</rdcp>
+	</cp>
+	<cp id="6">
+		<codicp>ELEE0310</codicp>
+		<nivellcp>3</nivellcp>
+		<nomcp>Gestión y supervisión del montaje y mantenimiento de instalaciones eléctricas en el entorno de edificios</nomcp>
+		<horescp>710</horescp>
+		<urlcp>https://www.sepe.es/contenidos/personas/formacion/certificados_de_profesionalidad/pdf/fichasCertificados/ELEE0310_ficha.pdf</urlcp>
+		<rdcp>RD 1523/2011</rdcp>
+	</cp>
+	<cp id="7">
+		<codicp>ELEE0410</codicp>
+		<nivellcp>3</nivellcp>
+		<nomcp>Gestión y supervisión del montaje y mantenimiento de redes eléctricas aéreas de alta tensión de segunda y tercera categoria, y centros de transformación de intemperie</nomcp>
+		<horescp>640</horescp>
+    <urlcp>https://www.sepe.es/contenidos/personas/formacion/certificados_de_profesionalidad/pdf/fichasCertificados/ELEE0410_ficha.pdf</urlcp>
+		<rdcp>RD 1523/2011</rdcp>
+	</cp>
+	<cp id="8">
+		<codicp>ELEE0510</codicp>
+		<nivellcp>3</nivellcp>
+		<nomcp>Gestión y supervisión del montaje y mantenimiento de redes subterraneas de alta tensión de 2ª y 3ª categoria y centros de transformación interior</nomcp>
+		<horescp>640</horescp>
+		<urlcp>https://www.sepe.es/contenidos/personas/formacion/certificados_de_profesionalidad/pdf/fichasCertificados/ELEE0510_ficha.pdf</urlcp>
+		<rdcp>RD 1523/2011</rdcp>
+	</cp>
+	<cp id="9">
+		<codicp>ELEE0610</codicp>
+		<nivellcp>3</nivellcp>
+		<nomcp>Gestión y supervisión del montaje y mantenimiento de redes eléctricas de baja tensión y alumbrado exterior</nomcp>
+		<horescp>620</horescp>
+		<urlcp>https://www.sepe.es/contenidos/personas/formacion/certificados_de_profesionalidad/pdf/fichasCertificados/ELEE0610_ficha.pdf</urlcp>
+		<rdcp>RD 1523/2011</rdcp>
+	</cp>
+	<cp id="10">
+		<codicp>ELEM0110</codicp>
+		<nivellcp>3</nivellcp>
+		<nomcp>Desarrollo de proyectos de sistemas de automatización industrial</nomcp>
+		<horescp>630</horescp>
+		<urlcp>https://www.sepe.es/contenidos/personas/formacion/certificados_de_profesionalidad/pdf/fichasCertificados/ELEM0110_ficha.pdf</urlcp>
+		<rdcp>RD 1523/2011</rdcp>
+	</cp>
+	<cp id="11">
+		<codicp>ELEM0111</codicp>
+		<nivellcp>2</nivellcp>
+		<nomcp>Montaje y mantenimiento de sistemas domóticos e inmóticos</nomcp>
+		<horescp>480</horescp>
+		<urlcp>https://www.sepe.es/contenidos/personas/formacion/certificados_de_profesionalidad/pdf/fichasCertificados/ELEM0111_ficha.pdf</urlcp>
+		<rdcp>RD 1077/2012</rdcp>
+	</cp>
+	<cp id="12">
+		<codicp>ELEM0210</codicp>
+		<nivellcp>3</nivellcp>
+		<nomcp>Gestión y supervisión del montaje y mantenimiento de sistemas de automatización industrial</nomcp>
+		<horescp>650</horescp>
+		<urlcp>https://www.sepe.es/contenidos/personas/formacion/certificados_de_profesionalidad/pdf/fichasCertificados/ELEM0210_ficha.pdf</urlcp>
+		<rdcp>RD 1523/2011</rdcp>
+	</cp>
+	<cp id="13">
+		<codicp>ELEM0211</codicp>
+		<nivellcp>3</nivellcp>
+		<nomcp>Gestión y supervisión del montaje y mantenimiento de sistemas domóticos e inmóticos</nomcp>
+		<horescp>550</horescp>
+		<urlcp>https://www.sepe.es/contenidos/personas/formacion/certificados_de_profesionalidad/pdf/fichasCertificados/ELEEM0211_ficha.pdf</urlcp>
+		<rdcp>RD 616/2013</rdcp>
+	</cp>
+	<cp id="14">
+		<codicp>ELEM0311</codicp>
+		<nivellcp>2</nivellcp>
+		<nomcp>Montaje y mantenimiento de sistemas de automatización industrial</nomcp>
+		<horescp>510</horescp>
+		<urlcp>https://www.sepe.es/contenidos/personas/formacion/certificados_de_profesionalidad/pdf/fichasCertificados/ELEM0311_ficha.pdf</urlcp>
+		<rdcp>RD 616/2013</rdcp>
+	</cp>
+	<cp id="15">
+		<codicp>ELEM0411</codicp>
+		<nivellcp>2</nivellcp>
+		<nomcp>Mantenimiento de electrodomésticos</nomcp>
+		<horescp>500</horescp>
+		<urlcp>https://www.sepe.es/contenidos/personas/formacion/certificados_de_profesionalidad/pdf/fichasCertificados/ELEM0411_ficha.pdf</urlcp>
+		<rdcp>RD 616/2013</rdcp>
+	</cp>
+	<cp id="16">
+		<codicp>ELEM0511</codicp>
+		<nivellcp>3</nivellcp>
+		<nomcp>Desarrollo de proyectos de sistemas domóticos e inmóticos</nomcp>
+		<horescp>550</horescp>
+		<urlcp>https://www.sepe.es/contenidos/personas/formacion/certificados_de_profesionalidad/pdf/fichasCertificados/ELEM0511_ficha.pdf</urlcp>
+		<rdcp>RD 616/2013</rdcp>
+	</cp>
+	<cp id="17">
+		<codicp>ELEQ0108</codicp>
+		<nivellcp>2</nivellcp>
+		<nomcp>Instalación y mantenimiento de sistemas de electromedicina</nomcp>
+		<horescp>600</horescp>
+		<urlcp>https://www.sepe.es/contenidos/personas/formacion/certificados_de_profesionalidad/pdf/fichasCertificados/ELEQ0108_ficha.pdf</urlcp>
+		<rdcp>RD 1214/2009 RD 683/2011</rdcp>
+	</cp>
+	<cp id="18">
+		<codicp>ELEQ0111</codicp>
+		<nivellcp>1</nivellcp>
+		<nomcp>Operaciones auxiliares de montaje y mantenimiento de equipos eléctricos y electrónicos</nomcp>
+		<horescp>390</horescp>
+		<urlcp>https://www.sepe.es/contenidos/personas/formacion/certificados_de_profesionalidad/pdf/fichasCertificados/ELEQ0111_ficha.pdf</urlcp>
+		<rdcp>RD 1077/2012</rdcp>
+	</cp>
+	<cp id="19">
+		<codicp>ELEQ0208</codicp>
+		<nivellcp>3</nivellcp>
+		<nomcp>Gestión y supervisión de la instalación y mantenimiento de sistemas de electromedicina</nomcp>
+		<horescp>700</horescp>
+		<urlcp>https://www.sepe.es/contenidos/personas/formacion/certificados_de_profesionalidad/pdf/fichasCertificados/ELEQ0208_ficha.pdf</urlcp>
+		<rdcp>RD 683/2011</rdcp>
+	</cp>
+	<cp id="20">
+		<codicp>ELEQ0211</codicp>
+		<nivellcp>2</nivellcp>
+		<nomcp>Reparación de equipos electrónicos de audio y vídeo</nomcp>
+		<horescp>580</horescp>
+		<urlcp>https://www.sepe.es/contenidos/personas/formacion/certificados_de_profesionalidad/pdf/fichasCertificados/ELEQ0211_ficha.pdf</urlcp>
+		<rdcp>RD 616/2013</rdcp>
+	</cp>
+	<cp id="21">
+		<codicp>ELEQ0311</codicp>
+		<nivellcp>3</nivellcp>
+		<nomcp>Mantenimiento de equipos electrónicos</nomcp>
+		<horescp>680</horescp>
+		<urlcp>https://www.sepe.es/contenidos/personas/formacion/certificados_de_profesionalidad/pdf/fichasCertificados/ELEQ0311_ficha.pdf</urlcp>
+		<rdcp>RD 616/2013</rdcp>
+	</cp>
+	<cp id="22">
+		<codicp>ELES0108</codicp>
+		<nivellcp>2</nivellcp>
+		<nomcp>Montaje y mantenimiento de infraestructuras de telecomunicaciones en edificios</nomcp>
+		<horescp>450</horescp>
+		<urlcp>https://www.sepe.es/contenidos/personas/formacion/certificados_de_profesionalidad/pdf/fichasCertificados/ELES0108_ficha.pdf</urlcp>
+		<rdcp>RD 1214/2009</rdcp>
+	</cp>
+	<cp id="23">
+		<codicp>ELES0109</codicp>
+		<nivellcp>2</nivellcp>
+		<nomcp>Montaje y mantenimiento de instalaciones de megafonía, sonorización de locales y circuitos cerrados de televisión</nomcp>
+		<horescp>350</horescp>
+		<urlcp>https://www.sepe.es/contenidos/personas/formacion/certificados_de_profesionalidad/pdf/fichasCertificados/ELES0109_ficha.pdf</urlcp>
+		<rdcp>RD 683/2011</rdcp>
+	</cp>
+	<cp id="24">
+		<codicp>ELES0110</codicp>
+		<nivellcp>3</nivellcp>
+		<nomcp>Desarrollo de proyectos de infraestructuras de telecomunicación y de redes de voz y datos en edificios</nomcp>
+		<horescp>500</horescp>
+		<urlcp>https://www.sepe.es/contenidos/personas/formacion/certificados_de_profesionalidad/pdf/fichasCertificados/ELES0110_ficha.pdf</urlcp>
+		<rdcp>RD 1523/2011</rdcp>
+	</cp>
+	<cp id="25">
+		<codicp>ELES0111</codicp>
+		<nivellcp>2</nivellcp>
+		<nomcp>Montaje y mantenimiento de equipamiento de red y estaciones base de telefonía</nomcp>
+		<horescp>590</horescp>
+		<urlcp>https://www.sepe.es/contenidos/personas/formacion/certificados_de_profesionalidad/pdf/fichasCertificados/ELES0111_ficha.pdf</urlcp>
+		<rdcp>RD 1077/2012</rdcp>
+	</cp>
+	<cp id="26">
+		<codicp>ELES0208</codicp>
+		<nivellcp>1</nivellcp>
+		<nomcp>Operaciones auxiliares de montaje de instalaciones electrotécnicas y de telecomunicac en edificios</nomcp>
+		<horescp>380</horescp>
+		<urlcp>https://www.sepe.es/contenidos/personas/formacion/certificados_de_profesionalidad/pdf/fichasCertificados/ELES0208_ficha.pdf</urlcp>
+		<rdcp>RD 683/2011</rdcp>
+	</cp>
+	<cp id="27">
+		<codicp>ELES0209</codicp>
+		<nivellcp>2</nivellcp>
+		<nomcp>Montaje y mantenimiento de sistemas de telefonía e infraestructuras de rees locales de datos</nomcp>
+		<horescp>420</horescp>
+		<urlcp>https://www.sepe.es/contenidos/personas/formacion/certificados_de_profesionalidad/pdf/fichasCertificados/ELES0209_ficha.pdf</urlcp>
+		<rdcp>RD 683/2011</rdcp>
+	</cp>
+	<cp id="28">
+		<codicp>ELES0210</codicp>
+		<nivellcp>3</nivellcp>
+		<nomcp>Gestión y supervisión del montaje y mantenimiento de las infraestructuras de telecomunicacion y de redes de voz y datos en el entorno de edificios</nomcp>
+		<horescp>680</horescp>
+		<urlcp>https://www.sepe.es/contenidos/personas/formacion/certificados_de_profesionalidad/pdf/fichasCertificados/ELES0210_ficha.pdf</urlcp>
+		<rdcp>RD 1523/2011</rdcp>
+	</cp>
+	<cp id="29">
+		<codicp>ELES0211</codicp>
+		<nivellcp>2</nivellcp>
+		<nomcp>Montaje y mantenimiento de sistemas de producción audiovisual y de radiodifusión</nomcp>
+		<horescp>440</horescp>
+		<urlcp>https://www.sepe.es/contenidos/personas/formacion/certificados_de_profesionalidad/pdf/fichasCertificados/ELES0211_ficha.pdf</urlcp>
+		<rdcp>RD 1077/2012</rdcp>
+	</cp>
+	<cp id="30">
+		<codicp>ELES0311</codicp>
+		<nivellcp>3</nivellcp>
+		<nomcp>Gestión y supervisión del montaje y mantenimiento de sistemas de producción audiovisual y de radiodifusión</nomcp>
+		<horescp>680</horescp>
+		<urlcp>https://www.sepe.es/contenidos/personas/formacion/certificados_de_profesionalidad/pdf/fichasCertificados/ELES03111_ficha.pdf</urlcp>
+		<rdcp>RD 1077/2012</rdcp>
+	</cp>
+	<cp id="31">
+		<codicp>ELES0411</codicp>
+		<nivellcp>3</nivellcp>
+		<nomcp>Gestión y supervisión del montaje y mantenimiento de equipamiento de red y estaciones base de telefonía</nomcp>
+		<horescp>770</horescp>
+		<urlcp>https://www.sepe.es/contenidos/personas/formacion/certificados_de_profesionalidad/pdf/fichasCertificados/ELES0411_ficha.pdf</urlcp>
+		<rdcp>RD 616/2013</rdcp>
+	</cp>
+</catalegcpele>

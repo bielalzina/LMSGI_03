@@ -1,0 +1,12 @@
+<!ELEMENT catalegcpele (cp+)>
+
+<!ELEMENT cp (codicp, nivellcp, nomcp, horescp, urlcp, rdcp)>
+
+<!ELEMENT codicp (#PCDATA)>
+<!ELEMENT nivellcp (#PCDATA)>
+<!ELEMENT nomcp (#PCDATA)>
+<!ELEMENT horescp (#PCDATA)>
+<!ELEMENT urlcp (#PCDATA)>
+<!ELEMENT rdcp (#PCDATA)>
+
+<!ATTLIST cp id CDATA #REQUIRED>
